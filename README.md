@@ -1,9 +1,14 @@
 به سورس پایتون اس ام اس بمبر ساخته شده توسط محمدکدر خوش آمدید 
 برای استفاده در ترموکس از این کد استفاده  کنید
+
 pkg install python
+
 pkg install requests
+
 pkg install colorama
+
 pkg install pillow
+
 
 git clone https://github.com/mamadcoderc/sms
 
